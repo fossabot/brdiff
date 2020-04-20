@@ -1,4 +1,6 @@
 # brdiff
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsmudge%2Fbrdiff.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsmudge%2Fbrdiff?ref=badge_shield)
+
 
 Subtract two images to create a new blue-red difference image.
 
@@ -78,3 +80,7 @@ This should install `libjpeg` and `libtiff` for you.
 * Write, commit, and push your contribution to your branch.
 * Make sure the project builds (`make`) and functionality still works as expected.
 * Submit a pull request.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsmudge%2Fbrdiff.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsmudge%2Fbrdiff?ref=badge_large)
